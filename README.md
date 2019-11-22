@@ -5,3 +5,5 @@
 #### anotate
 
 url : https://kite.com/python/docs/django.db.models.query.QuerySet.annotate
+
+url2: https://docs.djangoproject.com/fr/2.2/topics/db/aggregation/
